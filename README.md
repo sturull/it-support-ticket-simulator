@@ -1,4 +1,13 @@
-# IT Support Ticket Simulator
+📌 Project Overview
+
+This project simulates a real IT Help Desk environment by combining ticket data, troubleshooting documentation, and automation scripts. It demonstrates my ability to:
+	•	Diagnose and resolve technical issues
+	•	Document processes clearly and professionally
+	•	Write automation scripts in Python and Bash
+	•	Organize and manage IT operations workflows
+	•	Apply structured troubleshooting methods
+	•	Work with real-world ticketing concepts used in IT support teams
+	# IT Support Ticket Simulator
 
 A simulated IT help desk ticketing environment demonstrating practical troubleshooting, automation, and documentation skills for IT Support, Help Desk, and Systems Administration roles.
 
